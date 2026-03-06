@@ -40,6 +40,9 @@ A passionate full-stack developer and AI enthusiast focusing on **Python**, **Da
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=seoeaa&show_icons=true&theme=radium&hide_border=true" alt="seoeaa's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoeaa&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seoeaa&show_icons=true&theme=transparent#gh-dark-mode-only" alt="seoeaa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=seoeaa&layout=compact&theme=transparent#gh-dark-mode-only" alt="Top Languages" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seoeaa&theme=transparent#gh-dark-mode-only" alt="GitHub Streak" />
 </p>
