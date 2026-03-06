@@ -27,10 +27,13 @@ A passionate full-stack developer and AI enthusiast focusing on **Python**, **Da
 ---
 
 ## 🔥 Featured Repositories
-* **[Markorez](https://github.com/seoeaa/markorez)** - Computer Vision CV2 Desktop App for stamp contour extraction
-* **[CoPaw](https://github.com/seoeaa/CoPaw)** - Your Personal AI Assistant; deploy on your own machine or cloud
-* **[Antigravity-Manager](https://github.com/seoeaa/Antigravity-Manager)** - Professional Antigravity Account Manager built with Tauri + React
-* **[openfang](https://github.com/seoeaa/openfang)** - Open-source Agent Operating System
+* **[Markorez](https://github.com/seoeaa/markorez)** - Computer Vision CV2 Desktop App for stamp contour extraction.
+* **[yandex-direct-python-v5](https://github.com/seoeaa/yandex-direct-python-v5)** - Python library for Yandex Direct API v5.
+* **[li_auto_monitor](https://github.com/seoeaa/li_auto_monitor)** - Flutter app for Li Auto vehicle telemetry and monitoring.
+* **[perfume_control_flutter](https://github.com/seoeaa/perfume_control_flutter)** - Smart perfume control system using Flutter.
+* **[CoPaw](https://github.com/seoeaa/CoPaw)** - Your Personal AI Assistant; easy to install and deploy.
+* **[Antigravity-Manager](https://github.com/seoeaa/Antigravity-Manager)** - Professional Antigravity Account Manager built with Tauri + React.
+* **[openfang](https://github.com/seoeaa/openfang)** - Open-source Agent Operating System.
 
 ---
 
